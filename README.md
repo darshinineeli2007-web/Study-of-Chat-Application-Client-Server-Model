@@ -83,10 +83,12 @@ while True:
 ```
 ## Output:
 SERVER
-![alt text](image.png)
+<img width="490" height="145" alt="image" src="https://github.com/user-attachments/assets/0debc80e-8dd4-4452-98b1-95c92400e9b4" />
+
 
 CLIENT
-![alt text](image-1.png)
+<img width="517" height="187" alt="image" src="https://github.com/user-attachments/assets/95250138-a0a7-466c-a530-9631bf0e01a2" />
+
 
 ## Result:
 Thus the study on Client Server Chat Applications has been performed
